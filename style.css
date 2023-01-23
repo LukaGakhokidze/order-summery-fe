@@ -158,6 +158,7 @@ body {
 
 .card__heading {
   font-size: var(--fs-700);
+  font-weight: var(--fw-900);
   color: var(--clr-900-blue);
   margin: 2rem 0 1.0625rem 0;
 }
